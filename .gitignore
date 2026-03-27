@@ -1,0 +1,15 @@
+# VirtualBox artifacts
+*.vbox
+*.vbox-prev
+*.vdi
+*.vmdk
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary notes
+*.tmp
