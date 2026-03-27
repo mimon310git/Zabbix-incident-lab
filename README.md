@@ -38,7 +38,7 @@ Inside the VMs:
 - `enp0s3` = NAT
 - `enp0s8` = internal lab network
 
-More detail is in [docs/topology.md](/d:/zabbix-incident-lab/docs/topology.md).
+More detail is in [docs/topology.md](docs/topology.md).
 
 ## VM Layout
 
@@ -127,7 +127,7 @@ Planned next:
 3. High latency / packet loss on `web-01`
 4. Blocked port or interface down
 
-Details are in [docs/incidents.md](/d:/zabbix-incident-lab/docs/incidents.md).
+Details are in [docs/incidents.md](docs/incidents.md).
 
 ## Results
 
@@ -139,10 +139,10 @@ Implemented and validated in the live lab:
 
 Captured evidence:
 
-- [01-healthy-dashboard.png](/d:/zabbix-incident-lab/docs/screenshots/01-healthy-dashboard.png)
-- [02-web-http-unavailable.png](/d:/zabbix-incident-lab/docs/screenshots/02-web-http-unavailable.png)
-- [03-dns-unavailable.png](/d:/zabbix-incident-lab/docs/screenshots/03-dns-unavailable.png)
-- [04-resolved-state.png](/d:/zabbix-incident-lab/docs/screenshots/04-resolved-state.png)
+- [01-healthy-dashboard.png](docs/screenshots/01-healthy-dashboard.png)
+- [02-web-http-unavailable.png](docs/screenshots/02-web-http-unavailable.png)
+- [03-dns-unavailable.png](docs/screenshots/03-dns-unavailable.png)
+- [04-resolved-state.png](docs/screenshots/04-resolved-state.png)
 
 Note:
 

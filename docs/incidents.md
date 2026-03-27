@@ -182,7 +182,7 @@ Recommended cleanup:
 
 The current repo already includes:
 
-- [01-healthy-dashboard.png](/d:/zabbix-incident-lab/docs/screenshots/01-healthy-dashboard.png)
-- [02-web-http-unavailable.png](/d:/zabbix-incident-lab/docs/screenshots/02-web-http-unavailable.png)
-- [03-dns-unavailable.png](/d:/zabbix-incident-lab/docs/screenshots/03-dns-unavailable.png)
-- [04-resolved-state.png](/d:/zabbix-incident-lab/docs/screenshots/04-resolved-state.png)
+- [01-healthy-dashboard.png](screenshots/01-healthy-dashboard.png)
+- [02-web-http-unavailable.png](screenshots/02-web-http-unavailable.png)
+- [03-dns-unavailable.png](screenshots/03-dns-unavailable.png)
+- [04-resolved-state.png](screenshots/04-resolved-state.png)
